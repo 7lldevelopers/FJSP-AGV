@@ -1,0 +1,27 @@
+odernumber:
+  oder1: 1
+  oder2: 1
+  oder3: 1
+AGVnumber:
+  - 2
+oder1:
+  process1:
+    M1: 1
+    M2: 2
+  process2:
+    M3: 2
+    M4: 3
+  process3:
+    M5: 3
+oder2:
+  process1:
+    M1: 1
+    M2: 2
+  process2:
+    M5: 3
+oder3:
+  process1:
+    M3: 2
+    M4: 3
+  process2:
+    M5: 3
