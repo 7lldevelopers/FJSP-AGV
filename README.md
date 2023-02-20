@@ -1,3 +1,5 @@
+
+
 # FJSP-AGV
 
 
@@ -49,4 +51,31 @@
 
 ![image-20221228150725608](README.assets/image-20221228150725608.png)
 
-![image-20221228150750396](README.assets/image-20221228150750396.png)
+# 实验结果
+
+## AGV调度结果：
+
+![AGV调度1](README.assets/AGV调度1.jpg)![调度AGV](README.assets/调度AGV.jpg)
+
+## 最好的结果
+
+![huaijieguo](README.assets/huaijieguo.jpg)
+
+
+
+这个包括了机器和AGV的冲突的解决方式
+
++ QEA算法实现
+
++ 启发式的先来先服务
++ 带有先提条件的调度策略
+
+![gantt](README.assets/gantt.jpg)
+
+在README.assets 文件夹中 一共出现了10w条调度数据（包括重复的） 搜索到最终的最优值：
+
++ 8个工件订单（工件的加工顺序不同） 在4不同的工序（在不同的机器加工时间同）  3 个AGV（运输不同）
+
+后续加入路径来最终实现调度模型：
+
+。。。。。。。
