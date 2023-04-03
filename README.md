@@ -37,7 +37,7 @@
  	AGV分配到的订单
  	每台机器上工件的加工顺序
 
-![image-20221228150408728](README.assets/image-20221228150408728.png)
+
 
 ## 数据读取
 
@@ -218,7 +218,10 @@ times： =277
 通过修改openTCS框架，开始模拟执行当前数据。
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b231d36f2678ab3726a00838d8e7a44c9c120510
 ![Peek 2022-12-29 13-55](https://user-images.githubusercontent.com/61811488/222031246-f226cfdf-4c61-489e-af44-7c0eddab6293.gif)
 
 
