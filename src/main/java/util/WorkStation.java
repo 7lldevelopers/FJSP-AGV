@@ -20,12 +20,9 @@ public class WorkStation {
     private  List<Machine> machinesList=new ArrayList<>();
     private  List<AGV> agvList=new ArrayList<>();
     private  List<Route> routeList=new ArrayList<>();
-
-
     public  List<WorkPiece> getWorkPieceList() {
         return workPieceList;
     }
-
     public  void setWorkPieceList(List<WorkPiece> workPieceList) {
         this.workPieceList = workPieceList;
     }
@@ -33,7 +30,6 @@ public class WorkStation {
     public List<Machine> getMachinesList() {
         return machinesList;
     }
-
     public void setMachinesList(List<Machine> machinesList) {
         this.machinesList = machinesList;
     }

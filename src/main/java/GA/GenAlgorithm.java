@@ -90,11 +90,16 @@ public class GenAlgorithm {
                 }
             }
             //+1   ************************************
-            if (Best.size()<someTime) allSame=false;
+            if (Best.size()<someTime+1) allSame=false;
 //            for (int i = 0; i < Best.size(); i++) {
 //                System.out.println(Best.get(i).getTime());
 //            }
+            if (Best.get(0).getTime()<179){
+                int beest=Best.get(0).getTime();
+
+            }
             System.out.println(Best.get(0).getTime());
+
             //
             List<Chromosome> ch=new ArrayList<>();
 

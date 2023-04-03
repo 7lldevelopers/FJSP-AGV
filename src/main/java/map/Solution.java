@@ -11,15 +11,7 @@ public class Solution {
     //出现过的节点
     private ArrayList<Node> exist=new ArrayList<Node>();
     //地图资源
-    private int[][] map={
-            {-1,-1,-1,-1,-1,-1,-1},
-            {-1,0,0,0,0,0,-1},
-            {-1,0,0,0,0,0,-1},
-            {-1,0,0,0,0,0,-1},
-            {-1,0,-1,-1,-1,-1,-1},
-            {-1,0,0,0,0,0,-1},
-            {-1,-1,-1,-1,-1,-1,-1}
-    };
+    private static int[][] map=new SyMap().getMap();
     public Node asterSearch(Node s,Node e){
         this.open.add(s);
         this.exist.add(s);

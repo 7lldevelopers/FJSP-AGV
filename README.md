@@ -217,7 +217,9 @@ times： =277
 
 通过修改openTCS框架，开始模拟执行当前数据。
 
-![Peek 2022-12-29 13-55](README.assets/Peek 2022-12-29 13-55.gif)
+
+
+![Peek 2022-12-29 13-55](https://user-images.githubusercontent.com/61811488/222031246-f226cfdf-4c61-489e-af44-7c0eddab6293.gif)
 
 
 

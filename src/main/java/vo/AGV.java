@@ -27,7 +27,6 @@ public class AGV  {
             machineLocation.add(25);
         }
     }
-
     public int getTime() {
         return time;
     }

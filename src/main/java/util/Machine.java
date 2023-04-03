@@ -13,7 +13,6 @@ public class Machine {
     private String name;
     //机器能干的工序
     private List<Integer> ability=new ArrayList<>();
-
     //机器的当前位置
     private int location;
     private int time;
