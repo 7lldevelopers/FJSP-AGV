@@ -1,7 +1,7 @@
 
 
 # FJSP-AGV
-##gurobi
+## gurobi
 https://github.com/7lldevelopers/FJSP-AGV-gurobi
 ## 通过大模型来解决当前问题:
 https://7lldevelopers.github.io/2023/08/30/%E9%80%9A%E8%BF%87%E5%9F%BA%E4%BA%8E%E6%96%87%E6%9C%AC%E7%9F%A5%E8%AF%86%E5%92%8C%E8%AE%B0%E5%BF%86%E7%9A%84%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%88GLM%20GPT%EF%BC%89%E4%B8%BA%E6%9F%94%E6%80%A7%E8%BD%A6%E9%97%B4%E6%8F%90%E4%BE%9B%E8%B0%83%E5%BA%A6%EF%BC%88DEMO%EF%BC%89/
