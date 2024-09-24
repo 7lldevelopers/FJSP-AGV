@@ -5,7 +5,6 @@
 https://github.com/7lldevelopers/FJSP-AGV-gurobi
 ## 通过大模型来解决当前问题:
 
-https://github.com/7lldevelopers/GLM-AGV/
 
 **\*柔性作业车间生产调度\***
 
