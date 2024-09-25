@@ -12,11 +12,7 @@ https://github.com/7lldevelopers/FJSP-AGV-gurobi
 
 ​      因此，为了保证各道工序顺畅衔接以及加工机器的工作效率，AGV物流与生产协同调度需基于生产订单计划决策多台AGV 运送订单任务的顺序、规划运输路线、解决碰撞，最终实现最小化订单的最大完成制造时间。
 
-![image-20221228145846631](README.assets/image-20221228145846631.png)
-
 ![image-20221228150001064](README.assets/image-20221228150001064.png)
-
-![image-20221228150035862](README.assets/image-20221228150035862.png)
 
 ![image-20221228150109988](README.assets/image-20221228150109988.png)
 
